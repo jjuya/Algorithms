@@ -1,3 +1,3 @@
-path=C:\ProgramData\Anaconda\Scripts;C:\ProgramData\Anaconda\Library\bin;%path%jupyter notebook
+path=C:\Anaconda3\Scripts;C:\Anaconda3\Library\bin;%path%jupyter notebook
 
 jupyter notebook
