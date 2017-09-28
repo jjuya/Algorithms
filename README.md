@@ -1,8 +1,11 @@
 # Algorithms
 
+- Java
+- Python 
 
 * * *
 
-[Programmers](https://programmers.co.kr/learn/challenges)
+### Reference Site
+1. [Programmers](https://programmers.co.kr/learn/challenges)
 
-[hackerrank](https://www.hackerrank.com/domains/algorithms)
+2. [hackerrank](https://www.hackerrank.com/domains/algorithms)
